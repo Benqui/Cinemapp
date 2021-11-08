@@ -2,7 +2,7 @@
 
 A new  Dart + Flutter & mongoDB project.
 
-## Getting Started
+## El readme esta en proceso xD
 
 This project is a starting point for a Flutter application.
 
