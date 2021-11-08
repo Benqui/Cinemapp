@@ -1,6 +1,6 @@
-# cinemappmark06
+# cinemapp
 
-A new Flutter project.
+A new  Dart + Flutter & mongoDB project.
 
 ## Getting Started
 
